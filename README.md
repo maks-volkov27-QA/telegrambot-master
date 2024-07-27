@@ -14,7 +14,7 @@ telegrambot-помогает находить основные термины в
 
 Стартовое меню:
 
-![image])
+![image]https://raw.githubusercontent.com/maks-volkov27-QA/telegrambot-master/main/2024-07-27_11-51-28.png)
 
 
 ## 💻 Технологии
