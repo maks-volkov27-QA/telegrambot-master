@@ -1,2 +1,2 @@
 # telegrambot-master
-telegrambot-помогаеть
+telegrambot-помогает нахотидь основные термины в тестировании!
